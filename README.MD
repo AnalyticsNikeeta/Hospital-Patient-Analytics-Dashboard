@@ -22,8 +22,6 @@ Tools Used
 - Pivot Tables & Pivot Charts
 - Data aggregation and trend analysis
 
-   File
-- `HospitalData.xlsx` — full workbook with source data, pivot report, and dashboard visuals
 
 
 Nikeeta Sharma
